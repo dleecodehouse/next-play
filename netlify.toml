@@ -1,4 +1,4 @@
 [build]
 base = "src/mainsite"
-publish = "src/mainsite/.next"
+publish = ".next"
 command = "npm run build"
